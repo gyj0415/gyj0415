@@ -1,4 +1,3 @@
-### 🐍 Contribution Snake
 
  ![snake](https://raw.githubusercontent.com/gyj0415/gyj0415/output/github-contribution-grid-snake.svg)
 
