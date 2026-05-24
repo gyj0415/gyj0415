@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Yijian
+ 
+ - 🌱 I’m currently learning embedded systems and control.
+ - 🔭 I’m working on RoboMaster-related projects.
+ - 💬 Ask me about C / STM32 / basic control algorithms.
+ - 📫 How to reach me: you can open an issue in my repos.
+ 
+ ### 🐍 Contribution Snake
+ 
+ ![snake](https://raw.githubusercontent.com/gyj0415/gyj0415/output/github-contribution-grid-snake.svg)
 
 <!--
 **gyj0415/gyj0415** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
